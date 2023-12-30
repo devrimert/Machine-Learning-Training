@@ -1,5 +1,5 @@
 # Linear regression with Python
-import pandas as pd
+import pandas as pd # datayi okumak icin cok iyi.
 import matplotlib.pyplot as plt
 plt.style.use('ggplot')
 from sklearn import datasets

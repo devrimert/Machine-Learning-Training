@@ -61,4 +61,3 @@ print(reg.intercept_) # bu da sabit
 print(reg.predict([[3000,3,40]])) #444400
 value = 3000*137.25 + 3*-26025 + 40* -6825 +383725
 print(value) # 444400
-
